@@ -6,7 +6,7 @@
   
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge&logo=code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Lives-San%20Francisco-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Lives-KL%20Malaysia-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
     <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-red?style=for-the-badge&logo=googletranslate&logoColor=white"/>
   </p>
 
