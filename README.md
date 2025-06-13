@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm *Your Name*
+# Hi there! 👋 I'm *Senuji Kehara De Silva*
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Cloud+Architecture+Expert)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;)](https://git.io/typing-svg)
   
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge&logo=code&logoColor=white"/>
@@ -18,11 +18,10 @@
 
 javascript
 const developer = {
-    name: "Your Name",
+    name: "Senuji Kehara De Silva",
     role: "Full Stack Developer & UI/UX Designer",
-    location: "San Francisco, CA",
-    experience: "5+ years",
-    currentFocus: ["Cloud Architecture", "Modern Web Apps", "DevOps"],
+    location: "KL, MY",
+    currentFocus: ["Coding", "Modern Web Apps", "DevOps"],
     passions: ["Clean Code", "User Experience", "Innovation"],
     motto: "Building digital experiences that matter"
 };
@@ -117,12 +116,9 @@ const developer = {
 </td>
 <td valign="top" width="50%">
 
-### 🎯 2024 Goals
+### 🎯 2025 Goals
 - [ ] Contribute to 5 major open source projects
 - [ ] Launch 3 production-ready applications
-- [ ] Master Kubernetes orchestration
-- [ ] Obtain AWS Solutions Architect certification
-- [ ] Mentor 10+ junior developers
 
 </td>
 </tr>
@@ -167,9 +163,9 @@ const developer = {
   
   ### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=00D9FF&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=senu0727&color=00D9FF&style=for-the-badge&label=Profile+Views"/>
   
-  *⭐ From [yourusername](https://github.com/yourusername) with ❤*
+  *⭐ From [senu0727](https://github.com/senu0727) with ❤*
 
 </div>
 
