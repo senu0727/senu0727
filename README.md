@@ -86,9 +86,7 @@ const developer = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senu0727&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senu0727&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
-</div>
+
 
 ---
 
@@ -138,8 +136,8 @@ const developer = {
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=senu0727&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/yourusername/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=senu0727&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/yourusername/project2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=senu0727&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/senu0727/project1)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=senu0727&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/senu0727/project2)
 
 </div>
 
