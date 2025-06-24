@@ -132,16 +132,7 @@ const developer = {
 
 ---
 
-## 🎨 Featured Projects
 
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=senu0727&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/senu0727/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=senu0727&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/senu0727/project2)
-
-</div>
-
----
 
 ## 🤝 Let's Connect & Build Something Amazing!
 
